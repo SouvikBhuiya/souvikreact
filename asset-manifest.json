@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/souvikreact/static/css/main.31d6cfe0.css",
+    "main.js": "/souvikreact/static/js/main.be3fc4ab.js",
+    "static/js/453.ee47fcbe.chunk.js": "/souvikreact/static/js/453.ee47fcbe.chunk.js",
+    "index.html": "/souvikreact/index.html",
+    "main.be3fc4ab.js.map": "/souvikreact/static/js/main.be3fc4ab.js.map",
+    "453.ee47fcbe.chunk.js.map": "/souvikreact/static/js/453.ee47fcbe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.be3fc4ab.js"
+  ]
+}
